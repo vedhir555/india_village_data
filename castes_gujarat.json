@@ -1,0 +1,5462 @@
+{
+  "version": "1.0",
+  "state": "Gujarat",
+  "last_updated": "2026-06-08",
+  "total_root_castes": 346,
+  "total_entries": 427,
+  "categories": {
+    "General": "Open/unreserved — Hindu upper castes",
+    "SEBC": "Socially & Educationally Backward Classes (OBC)",
+    "SC": "Scheduled Caste",
+    "ST": "Scheduled Tribe",
+    "DT": "De-notified Tribe",
+    "NT": "Nomadic Tribe",
+    "Jain": "Jain community",
+    "Muslim": "Muslim community"
+  },
+  "castes": [
+    {
+      "id": "patidar",
+      "name": "Patidar / Patel",
+      "name_gu": "પટીદાર / પટેલ",
+      "category": "General",
+      "also_known_as": [
+        "Patel",
+        "Patil",
+        "Kanbi"
+      ],
+      "regions": [
+        "Gujarat",
+        "All India"
+      ],
+      "subcastes": [
+        {
+          "id": "leuva_patidar",
+          "name": "Leuva Patidar",
+          "name_gu": "લેઉવા પટીદાર",
+          "also_known_as": [
+            "Leuva Patel",
+            "Leva Patidar"
+          ],
+          "regions": [
+            "Saurashtra",
+            "North Gujarat",
+            "Mehsana",
+            "Patan"
+          ]
+        },
+        {
+          "id": "kadva_patidar",
+          "name": "Kadva Patidar",
+          "name_gu": "કડવા પટીદાર",
+          "also_known_as": [
+            "Kadwa Patidar",
+            "Kadva Patel"
+          ],
+          "regions": [
+            "North Gujarat",
+            "Mehsana",
+            "Gandhinagar",
+            "Sabarkantha"
+          ]
+        },
+        {
+          "id": "charotar_patidar",
+          "name": "Charotar Patidar",
+          "name_gu": "ચારોતર પટીદાર",
+          "also_known_as": [
+            "Charotari Patel",
+            "Chha Gam",
+            "Ekvis Gam",
+            "Satrish Gam"
+          ],
+          "regions": [
+            "Anand",
+            "Kheda"
+          ]
+        },
+        {
+          "id": "anjana_patidar",
+          "name": "Anjana Patidar",
+          "name_gu": "અંજના પટીદાર",
+          "also_known_as": [
+            "Anjana Patel",
+            "Anjana Chaudhary"
+          ],
+          "regions": [
+            "South Gujarat",
+            "Surat",
+            "Navsari",
+            "Valsad",
+            "Bharuch"
+          ]
+        },
+        {
+          "id": "kutchi_patidar",
+          "name": "Kutchi Patidar",
+          "name_gu": "કચ્છી પટીદાર",
+          "also_known_as": [
+            "Kutch Patel",
+            "Kachhi Patidar"
+          ],
+          "regions": [
+            "Kutch",
+            "Bhuj",
+            "Gandhidham"
+          ]
+        },
+        {
+          "id": "matiya_patidar",
+          "name": "Matiya Patidar",
+          "name_gu": "મટીયા પટીદાર",
+          "also_known_as": [
+            "Matia Patel",
+            "Matiya Kanbi"
+          ],
+          "regions": [
+            "North Gujarat",
+            "Banaskantha",
+            "Mehsana"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brahmin",
+      "name": "Brahmin",
+      "name_gu": "બ્રાહ્મણ",
+      "category": "General",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat",
+        "All India"
+      ],
+      "subcastes": [
+        {
+          "id": "anavil_brahmin",
+          "name": "Anavil Brahmin",
+          "name_gu": "અણવિલ બ્રાહ્મણ",
+          "also_known_as": [
+            "Anvil Brahmin",
+            "Anavil Desai",
+            "Anavil Bhathela"
+          ],
+          "regions": [
+            "South Gujarat",
+            "Surat",
+            "Navsari",
+            "Valsad",
+            "Bharuch"
+          ]
+        },
+        {
+          "id": "audichya_brahmin",
+          "name": "Audichya Brahmin",
+          "name_gu": "ઔદિચ્ય બ્રાહ્મણ",
+          "also_known_as": [
+            "Audich Brahmin",
+            "Audichya Sahasra"
+          ],
+          "regions": [
+            "North Gujarat",
+            "Mehsana",
+            "Patan",
+            "Banaskantha"
+          ]
+        },
+        {
+          "id": "bardai_brahmin",
+          "name": "Bardai Brahmin",
+          "name_gu": "બારડાઈ બ્રાહ્મણ",
+          "also_known_as": [],
+          "regions": [
+            "Saurashtra",
+            "Kutch"
+          ]
+        },
+        {
+          "id": "nagar_brahmin",
+          "name": "Nagar Brahmin",
+          "name_gu": "નાગર બ્રાહ્મણ",
+          "also_known_as": [
+            "Vadnagara Nagar",
+            "Visnagara Nagar",
+            "Sathodik Nagar",
+            "Prashnora Nagar"
+          ],
+          "regions": [
+            "Ahmedabad",
+            "Vadodara",
+            "Central Gujarat"
+          ]
+        },
+        {
+          "id": "shrimali_brahmin",
+          "name": "Shrimali Brahmin",
+          "name_gu": "શ્રીમાળી બ્રાહ્મણ",
+          "also_known_as": [
+            "Srimali"
+          ],
+          "regions": [
+            "Saurashtra",
+            "Bhavnagar",
+            "Rajkot",
+            "Kutch"
+          ]
+        },
+        {
+          "id": "tapodhan_brahmin",
+          "name": "Tapodhan Brahmin",
+          "name_gu": "તપોધન બ્રાહ્મણ",
+          "also_known_as": [],
+          "regions": [
+            "Saurashtra",
+            "Kutch"
+          ]
+        },
+        {
+          "id": "modh_brahmin",
+          "name": "Modh Brahmin",
+          "name_gu": "મોઢ બ્રાહ્મણ",
+          "also_known_as": [
+            "Modhera Brahmin",
+            "Maudh Brahmin"
+          ],
+          "regions": [
+            "North Gujarat",
+            "Mehsana",
+            "Ahmedabad"
+          ]
+        },
+        {
+          "id": "saryuparin_brahmin",
+          "name": "Saryuparin Brahmin",
+          "name_gu": "સર્યૂપારીણ બ્રાહ્મણ",
+          "also_known_as": [],
+          "regions": [
+            "Gujarat"
+          ]
+        },
+        {
+          "id": "khadayata_brahmin",
+          "name": "Khadayata Brahmin",
+          "name_gu": "ખડાયતા બ્રાહ્મણ",
+          "also_known_as": [],
+          "regions": [
+            "Saurashtra",
+            "Central Gujarat"
+          ]
+        },
+        {
+          "id": "gugali_brahmin",
+          "name": "Gugali Brahmin",
+          "name_gu": "ગુગળી બ્રાહ્મણ",
+          "also_known_as": [],
+          "regions": [
+            "Gujarat",
+            "Rajasthan border"
+          ]
+        },
+        {
+          "id": "mevada_brahmin",
+          "name": "Mevada Brahmin",
+          "name_gu": "મેવાડા બ્રાહ્મણ",
+          "also_known_as": [
+            "Mewada Brahmin"
+          ],
+          "regions": [
+            "Mehsana",
+            "Patan",
+            "North Gujarat"
+          ]
+        },
+        {
+          "id": "pushkarna_brahmin",
+          "name": "Pushkarna Brahmin",
+          "name_gu": "પુષ્કર્ણા બ્રાહ્મણ",
+          "also_known_as": [],
+          "regions": [
+            "Kutch",
+            "Saurashtra"
+          ]
+        },
+        {
+          "id": "bhargav_brahmin",
+          "name": "Bhargav Brahmin",
+          "name_gu": "ભાર્ગવ બ્રાહ્મણ",
+          "also_known_as": [],
+          "regions": [
+            "Gujarat"
+          ]
+        },
+        {
+          "id": "chavil_brahmin",
+          "name": "Chavil Brahmin",
+          "name_gu": "ચાવિલ બ્રાહ્મણ",
+          "also_known_as": [],
+          "regions": [
+            "Gujarat"
+          ]
+        },
+        {
+          "id": "jharola_brahmin",
+          "name": "Jharola Brahmin",
+          "name_gu": "ઝારોળા બ્રાહ્મણ",
+          "also_known_as": [
+            "Jharola"
+          ],
+          "regions": [
+            "Gujarat"
+          ]
+        },
+        {
+          "id": "khedawal_brahmin",
+          "name": "Khedawal Brahmin",
+          "name_gu": "ખેડાવળ બ્રાહ્મણ",
+          "also_known_as": [
+            "Khedawala",
+            "Khedawal Deva",
+            "Khedawal Bhuva"
+          ],
+          "regions": [
+            "Kheda",
+            "Anand",
+            "Central Gujarat"
+          ]
+        },
+        {
+          "id": "nandwana_brahmin",
+          "name": "Nandwana Brahmin",
+          "name_gu": "નાંદવાણા બ્રાહ્મણ",
+          "also_known_as": [],
+          "regions": [
+            "Gujarat"
+          ]
+        },
+        {
+          "id": "rayakwal_brahmin",
+          "name": "Rayakwal Brahmin",
+          "name_gu": "રાયકવાળ બ્રાહ્મણ",
+          "also_known_as": [],
+          "regions": [
+            "Gujarat"
+          ]
+        },
+        {
+          "id": "sajodra_brahmin",
+          "name": "Sajodra Brahmin",
+          "name_gu": "સઝોડ્રા બ્રાહ્મણ",
+          "also_known_as": [],
+          "regions": [
+            "Gujarat"
+          ]
+        },
+        {
+          "id": "valam_brahmin",
+          "name": "Valam Brahmin",
+          "name_gu": "વાળમ બ્રાહ્મણ",
+          "also_known_as": [],
+          "regions": [
+            "North Gujarat",
+            "Mehsana"
+          ]
+        },
+        {
+          "id": "vayada_brahmin",
+          "name": "Vayada Brahmin",
+          "name_gu": "વાયડા બ્રાહ્મણ",
+          "also_known_as": [],
+          "regions": [
+            "Gujarat"
+          ]
+        },
+        {
+          "id": "harsola_brahmin",
+          "name": "Harsola Brahmin",
+          "name_gu": "હર્સોળા બ્રાહ્મણ",
+          "also_known_as": [],
+          "regions": [
+            "Gujarat"
+          ]
+        },
+        {
+          "id": "gomtiwal_brahmin",
+          "name": "Gomtiwal Brahmin",
+          "name_gu": "ગોમ્તીવાળ બ્રાહ્મણ",
+          "also_known_as": [],
+          "regions": [
+            "Gujarat"
+          ]
+        },
+        {
+          "id": "saraswat_brahmin",
+          "name": "Saraswat Brahmin",
+          "name_gu": "સારસ્વત બ્રાહ્મણ",
+          "also_known_as": [],
+          "regions": [
+            "Kutch",
+            "Saurashtra",
+            "Surat"
+          ]
+        },
+        {
+          "id": "rajgor_brahmin",
+          "name": "Rajgor Brahmin",
+          "name_gu": "રાજગોર બ્રાહ્મણ",
+          "also_known_as": [
+            "Rajguru"
+          ],
+          "regions": [
+            "Saurashtra",
+            "Rajkot",
+            "Junagadh"
+          ]
+        },
+        {
+          "id": "trivedi_brahmin",
+          "name": "Trivedi Brahmin",
+          "name_gu": "ત્રિવેદી બ્રાહ્મણ",
+          "also_known_as": [],
+          "regions": [
+            "Gujarat"
+          ]
+        },
+        {
+          "id": "chaturvedi_brahmin",
+          "name": "Chaturvedi Brahmin",
+          "name_gu": "ચતુર્વેદી બ્રાહ્મણ",
+          "also_known_as": [],
+          "regions": [
+            "Gujarat"
+          ]
+        },
+        {
+          "id": "dvivedi_brahmin",
+          "name": "Dvivedi Brahmin",
+          "name_gu": "દ્વિવેદી બ્રાહ્મણ",
+          "also_known_as": [],
+          "regions": [
+            "Gujarat"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rajput",
+      "name": "Rajput / Darbar",
+      "name_gu": "રાજપૂત / દરબાર",
+      "category": "General",
+      "also_known_as": [
+        "Darbar",
+        "Kshatriya"
+      ],
+      "regions": [
+        "Saurashtra",
+        "Gujarat",
+        "All India"
+      ],
+      "subcastes": [
+        {
+          "id": "jadeja_rajput",
+          "name": "Jadeja Rajput",
+          "name_gu": "જાડેજા રાજપૂત",
+          "also_known_as": [],
+          "regions": [
+            "Kutch",
+            "Saurashtra"
+          ]
+        },
+        {
+          "id": "solanki_rajput",
+          "name": "Solanki Rajput",
+          "name_gu": "સોલંકી રાજપૂત",
+          "also_known_as": [],
+          "regions": [
+            "Gujarat"
+          ]
+        },
+        {
+          "id": "vaghela_rajput",
+          "name": "Vaghela Rajput",
+          "name_gu": "વાઘેલા રાજપૂત",
+          "also_known_as": [],
+          "regions": [
+            "Central Gujarat",
+            "Ahmedabad"
+          ]
+        },
+        {
+          "id": "chauhan_rajput",
+          "name": "Chauhan Rajput",
+          "name_gu": "ચૌહાણ રાજપૂત",
+          "also_known_as": [],
+          "regions": [
+            "Gujarat"
+          ]
+        },
+        {
+          "id": "parmar_rajput",
+          "name": "Parmar Rajput",
+          "name_gu": "પરમાર રાજપૂત",
+          "also_known_as": [],
+          "regions": [
+            "Gujarat"
+          ]
+        },
+        {
+          "id": "rathod_rajput",
+          "name": "Rathod Rajput",
+          "name_gu": "રાઠોડ રાજપૂત",
+          "also_known_as": [],
+          "regions": [
+            "Saurashtra",
+            "North Gujarat"
+          ]
+        },
+        {
+          "id": "gohil_rajput",
+          "name": "Gohil Rajput",
+          "name_gu": "ગોહિલ રાજપૂત",
+          "also_known_as": [],
+          "regions": [
+            "Saurashtra",
+            "Bhavnagar"
+          ]
+        },
+        {
+          "id": "jhala_rajput",
+          "name": "Jhala Rajput",
+          "name_gu": "ઝાલા રાજપૂત",
+          "also_known_as": [],
+          "regions": [
+            "Saurashtra",
+            "Surendranagar"
+          ]
+        },
+        {
+          "id": "chudasama_rajput",
+          "name": "Chudasama Rajput",
+          "name_gu": "ચૂડાસામા રાજપૂત",
+          "also_known_as": [],
+          "regions": [
+            "Saurashtra",
+            "Junagadh"
+          ]
+        },
+        {
+          "id": "sarvaiya_rajput",
+          "name": "Sarvaiya Rajput",
+          "name_gu": "સરવૈયા રાજપૂત",
+          "also_known_as": [],
+          "regions": [
+            "Saurashtra"
+          ]
+        },
+        {
+          "id": "garasiya_rajput",
+          "name": "Garasiya Rajput",
+          "name_gu": "ગરાસિયા રાજપૂત",
+          "also_known_as": [
+            "Garasia"
+          ],
+          "regions": [
+            "Saurashtra",
+            "Panchmahal"
+          ]
+        },
+        {
+          "id": "maratha_gujarat",
+          "name": "Sarvajanik Maratha",
+          "name_gu": "સર્વજનિક મરાઠા",
+          "also_known_as": [
+            "Maratha Rajput"
+          ],
+          "regions": [
+            "Vadodara",
+            "Surat",
+            "South Gujarat"
+          ]
+        },
+        {
+          "id": "brahma_kshatriya",
+          "name": "Brahma Kshatriya",
+          "name_gu": "બ્રહ્મ ક્ષત્રિય",
+          "also_known_as": [],
+          "regions": [
+            "South Gujarat",
+            "Navsari",
+            "Valsad"
+          ]
+        },
+        {
+          "id": "makwana_rajput",
+          "name": "Makwana Rajput",
+          "name_gu": "મકવાણા રાજપૂત",
+          "also_known_as": [],
+          "regions": [
+            "Saurashtra",
+            "Kutch"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vania",
+      "name": "Vania / Bania",
+      "name_gu": "વણિયા / બનિયા",
+      "category": "General",
+      "also_known_as": [
+        "Vani",
+        "Bania",
+        "Baniya"
+      ],
+      "regions": [
+        "Gujarat",
+        "All India"
+      ],
+      "subcastes": [
+        {
+          "id": "khadayata_vania",
+          "name": "Khadayata Vania",
+          "name_gu": "ખડાયતા વણિયા",
+          "also_known_as": [],
+          "regions": [
+            "Saurashtra",
+            "Central Gujarat"
+          ]
+        },
+        {
+          "id": "lad_vania",
+          "name": "Lad Vania",
+          "name_gu": "લાડ વણિયા",
+          "also_known_as": [],
+          "regions": [
+            "Surat",
+            "South Gujarat",
+            "Bharuch"
+          ]
+        },
+        {
+          "id": "modh_vania",
+          "name": "Modh Vania",
+          "name_gu": "મોઢ વણિયા",
+          "also_known_as": [
+            "Modh"
+          ],
+          "regions": [
+            "North Gujarat",
+            "Mehsana",
+            "Ahmedabad"
+          ]
+        },
+        {
+          "id": "nima_vania",
+          "name": "Nima Vania",
+          "name_gu": "નીમા વણિયા",
+          "also_known_as": [],
+          "regions": [
+            "Gujarat"
+          ]
+        },
+        {
+          "id": "porwad_vania",
+          "name": "Porwad Vania",
+          "name_gu": "પોરવાડ વણિયા",
+          "also_known_as": [],
+          "regions": [
+            "Kutch",
+            "Saurashtra"
+          ]
+        },
+        {
+          "id": "shrimali_vania",
+          "name": "Shrimali Vania",
+          "name_gu": "શ્રીમાળી વણિયા",
+          "also_known_as": [],
+          "regions": [
+            "Saurashtra",
+            "North Gujarat"
+          ]
+        },
+        {
+          "id": "kapol_vania",
+          "name": "Kapol Vania",
+          "name_gu": "કાપોળ વણિયા",
+          "also_known_as": [
+            "Kapol"
+          ],
+          "regions": [
+            "Kutch",
+            "Saurashtra",
+            "Mumbai"
+          ]
+        },
+        {
+          "id": "sorathia_vania",
+          "name": "Sorathia Vania",
+          "name_gu": "સૌરાષ્ટ્ર વણિયા",
+          "also_known_as": [],
+          "regions": [
+            "Saurashtra"
+          ]
+        },
+        {
+          "id": "vaishnav_vania",
+          "name": "Vaishnav Vania",
+          "name_gu": "વૈષ્ણવ વણિયા",
+          "also_known_as": [],
+          "regions": [
+            "Gujarat"
+          ]
+        },
+        {
+          "id": "disawal_vania",
+          "name": "Disawal Vania",
+          "name_gu": "ડીસાવાળ વણિયા",
+          "also_known_as": [],
+          "regions": [
+            "North Gujarat",
+            "Mehsana"
+          ]
+        },
+        {
+          "id": "dasa_vania",
+          "name": "Dasa Vania",
+          "name_gu": "દાસા વણિયા",
+          "also_known_as": [],
+          "regions": [
+            "Kutch",
+            "Saurashtra"
+          ]
+        },
+        {
+          "id": "visa_vania",
+          "name": "Visa Vania",
+          "name_gu": "વીસા વણિયા",
+          "also_known_as": [],
+          "regions": [
+            "Gujarat"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lohana",
+      "name": "Lohana",
+      "name_gu": "લોહાણા",
+      "category": "General",
+      "also_known_as": [
+        "Luhana",
+        "Kutchi Lohana",
+        "Saurashtra Lohana",
+        "Halari Lohana"
+      ],
+      "regions": [
+        "Saurashtra",
+        "Kutch",
+        "Ahmedabad",
+        "Surat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "bhatia",
+      "name": "Bhatia",
+      "name_gu": "ભાટિયા",
+      "category": "General",
+      "also_known_as": [
+        "Bhattia"
+      ],
+      "regions": [
+        "Kutch",
+        "Jamnagar",
+        "Saurashtra"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "sompura",
+      "name": "Sompura Salat",
+      "name_gu": "સોમપુરા સલાટ",
+      "category": "General",
+      "also_known_as": [
+        "Sompura",
+        "Salat"
+      ],
+      "regions": [
+        "North Gujarat",
+        "Patan",
+        "Mehsana"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "brahmbhatt",
+      "name": "Brahmbhatt / Barot",
+      "name_gu": "બ્રહ્મભટ્ટ / બારોટ",
+      "category": "General",
+      "also_known_as": [
+        "Barot",
+        "Brahmbhat"
+      ],
+      "regions": [
+        "Gujarat",
+        "All regions"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "kshatriya_soni",
+      "name": "Kshatriya Soni",
+      "name_gu": "ક્ષત્રિય સોની",
+      "category": "General",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "kayastha",
+      "name": "Kayastha",
+      "name_gu": "કાયસ્થ",
+      "category": "General",
+      "also_known_as": [
+        "Ambastha",
+        "Saksena",
+        "Mathur",
+        "Valmik Kayastha"
+      ],
+      "regions": [
+        "Gujarat",
+        "North India origin"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "raghuvanshi",
+      "name": "Raghuvanshi",
+      "name_gu": "રઘુવંશી",
+      "category": "General",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "mahajan",
+      "name": "Mahajan",
+      "name_gu": "મહાજન",
+      "category": "General",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat",
+        "All India"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "khatri",
+      "name": "Khatri",
+      "name_gu": "ખત્રી",
+      "category": "General",
+      "also_known_as": [],
+      "regions": [
+        "Surat",
+        "Ahmedabad",
+        "Kutch"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "khadayata",
+      "name": "Khadayata",
+      "name_gu": "ખડાયતા",
+      "category": "General",
+      "also_known_as": [],
+      "regions": [
+        "Saurashtra",
+        "Central Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "agrawal",
+      "name": "Agrawal",
+      "name_gu": "અગ્રવાળ",
+      "category": "General",
+      "also_known_as": [
+        "Aggarwal"
+      ],
+      "regions": [
+        "Gujarat",
+        "All India"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "maheshwari",
+      "name": "Maheshwari",
+      "name_gu": "મહેશ્વરી",
+      "category": "General",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat",
+        "Rajasthan origin"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "vijaywargiya",
+      "name": "Vijaywargiya",
+      "name_gu": "વિજયવર્ગીય",
+      "category": "General",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat",
+        "MP origin"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "porwal",
+      "name": "Porwal",
+      "name_gu": "પોરવાળ",
+      "category": "General",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat",
+        "Rajasthan border"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "gaur",
+      "name": "Gaur",
+      "name_gu": "ગૌડ",
+      "category": "General",
+      "also_known_as": [
+        "Gaur Brahmin"
+      ],
+      "regions": [
+        "Gujarat",
+        "North India origin"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "khandelwal",
+      "name": "Khandelwal",
+      "name_gu": "ખાંડેળવાળ",
+      "category": "General",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat",
+        "Rajasthan origin"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "oswal",
+      "name": "Oswal",
+      "name_gu": "ઓસવાળ",
+      "category": "General",
+      "also_known_as": [],
+      "regions": [
+        "Kutch",
+        "Saurashtra",
+        "Rajasthan border"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "goghari",
+      "name": "Goghari",
+      "name_gu": "ગોઘારી",
+      "category": "General",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "desai_general",
+      "name": "Desai (General)",
+      "name_gu": "દેસાઈ (સામાન્ય)",
+      "category": "General",
+      "also_known_as": [],
+      "regions": [
+        "South Gujarat",
+        "Central Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "sindhi_hindu",
+      "name": "Hindu Sindhi",
+      "name_gu": "હિંદુ સિંધી",
+      "category": "General",
+      "also_known_as": [
+        "Amil Sindhi",
+        "Bhaiband Sindhi",
+        "Bhatia Sindhi"
+      ],
+      "regions": [
+        "Ahmedabad",
+        "Surat",
+        "Kutch",
+        "Gandhinagar"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "sikh",
+      "name": "Sikh",
+      "name_gu": "શીખ",
+      "category": "General",
+      "also_known_as": [
+        "Punjabi Sikh"
+      ],
+      "regions": [
+        "Ahmedabad",
+        "Surat",
+        "Vadodara",
+        "Rajkot"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "gujjar",
+      "name": "Gujjar",
+      "name_gu": "ગૂજ્જર",
+      "category": "General",
+      "also_known_as": [
+        "Gurjar"
+      ],
+      "regions": [
+        "North Gujarat",
+        "Saurashtra",
+        "Sabarkantha"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "bhavsar",
+      "name": "Bhavsar Kshatriya",
+      "name_gu": "ભાવસાર ક્ષત્રિય",
+      "category": "General",
+      "also_known_as": [
+        "Bhavsar",
+        "Rangari",
+        "Rangrez",
+        "Chipa Bhavsar"
+      ],
+      "regions": [
+        "Gujarat",
+        "All India"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "pancholi",
+      "name": "Pancholi",
+      "name_gu": "પંચોળી",
+      "category": "General",
+      "also_known_as": [
+        "Kayastha Pancholi",
+        "Divan"
+      ],
+      "regions": [
+        "Gujarat",
+        "Rajasthan origin"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "bhansali",
+      "name": "Bhansali",
+      "name_gu": "ભાંસાળી",
+      "category": "General",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat",
+        "Rajasthan origin"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "kanbhi",
+      "name": "Kanbhi / Kanbi",
+      "name_gu": "કણબી / કાનબી",
+      "category": "General",
+      "also_known_as": [
+        "Kanbi",
+        "Leva Kanbi",
+        "Kadva Kanbi"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "parsi",
+      "name": "Parsi",
+      "name_gu": "પારસી",
+      "category": "General",
+      "also_known_as": [
+        "Zoroastrian"
+      ],
+      "regions": [
+        "Surat",
+        "Navsari",
+        "Ahmedabad",
+        "Mumbai"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "bene_israel_jew",
+      "name": "Bene Israel (Jew)",
+      "name_gu": "બેને ઇઝરાઈલ (યહૂદી)",
+      "category": "General",
+      "also_known_as": [
+        "Jew"
+      ],
+      "regions": [
+        "Ahmedabad",
+        "Mumbai"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "christian",
+      "name": "Christian",
+      "name_gu": "ખ્રિસ્તી",
+      "category": "General",
+      "also_known_as": [
+        "Catholic",
+        "Protestant",
+        "Church of North India"
+      ],
+      "regions": [
+        "Gujarat",
+        "All regions"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "bohri_hindu",
+      "name": "Bohri (Hindu)",
+      "name_gu": "બોહ્રી (હિંદુ)",
+      "category": "General",
+      "also_known_as": [],
+      "regions": [
+        "Surat",
+        "Vadodara"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "bania",
+      "name": "Bania",
+      "name_gu": "બનિયા",
+      "category": "General",
+      "also_known_as": [
+        "Baniya"
+      ],
+      "regions": [
+        "Gujarat",
+        "All India"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "dhangar",
+      "name": "Dhangar",
+      "name_gu": "ધણગર",
+      "category": "General",
+      "also_known_as": [
+        "Shepherd caste"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "nayak_general",
+      "name": "Nayak (General)",
+      "name_gu": "નાયક (સામાન્ય)",
+      "category": "General",
+      "also_known_as": [],
+      "regions": [
+        "South Gujarat",
+        "Valsad",
+        "Navsari"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "padmashali_general",
+      "name": "Padmashali (General)",
+      "name_gu": "પદ્મશાળી (સામાન્ય)",
+      "category": "General",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "jain",
+      "name": "Jain",
+      "name_gu": "જૈન",
+      "category": "Jain",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat",
+        "All India"
+      ],
+      "subcastes": [
+        {
+          "id": "digambar_jain",
+          "name": "Digambar Jain",
+          "name_gu": "દિગંબર જૈન",
+          "also_known_as": [],
+          "regions": [
+            "Gujarat",
+            "All India"
+          ]
+        },
+        {
+          "id": "shvetambar_jain",
+          "name": "Shvetambar Jain",
+          "name_gu": "શ્વેતાંબર જૈન",
+          "also_known_as": [
+            "Svetambar"
+          ],
+          "regions": [
+            "Gujarat",
+            "All India"
+          ]
+        },
+        {
+          "id": "sthanakvasi_jain",
+          "name": "Sthanakvasi Jain",
+          "name_gu": "સ્થાનકવાસી જૈન",
+          "also_known_as": [],
+          "regions": [
+            "Gujarat"
+          ]
+        },
+        {
+          "id": "terapanthi_jain",
+          "name": "Terapanthi Jain",
+          "name_gu": "તેરાપંથી જૈન",
+          "also_known_as": [],
+          "regions": [
+            "Gujarat"
+          ]
+        },
+        {
+          "id": "oswal_jain",
+          "name": "Oswal Jain",
+          "name_gu": "ઓસવાળ જૈન",
+          "also_known_as": [
+            "Osval"
+          ],
+          "regions": [
+            "Kutch",
+            "Saurashtra",
+            "Rajasthan border"
+          ]
+        },
+        {
+          "id": "porwal_jain",
+          "name": "Porwal Jain",
+          "name_gu": "પોરવાળ જૈન",
+          "also_known_as": [],
+          "regions": [
+            "North Gujarat",
+            "Saurashtra"
+          ]
+        },
+        {
+          "id": "shrimali_jain",
+          "name": "Shrimali Jain",
+          "name_gu": "શ્રીમાળી જૈન",
+          "also_known_as": [
+            "Srimali Jain"
+          ],
+          "regions": [
+            "Saurashtra",
+            "North Gujarat"
+          ]
+        },
+        {
+          "id": "khadayata_jain",
+          "name": "Khadayata Jain",
+          "name_gu": "ખડાયતા જૈન",
+          "also_known_as": [],
+          "regions": [
+            "Gujarat"
+          ]
+        },
+        {
+          "id": "lad_jain",
+          "name": "Lad Jain",
+          "name_gu": "લાડ જૈન",
+          "also_known_as": [],
+          "regions": [
+            "Surat",
+            "South Gujarat"
+          ]
+        },
+        {
+          "id": "modh_jain",
+          "name": "Modh Jain",
+          "name_gu": "મોઢ જૈન",
+          "also_known_as": [],
+          "regions": [
+            "North Gujarat",
+            "Mehsana"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "syed",
+      "name": "Syed",
+      "name_gu": "સૈયદ",
+      "category": "Muslim",
+      "also_known_as": [
+        "Sayyad",
+        "Saiyad"
+      ],
+      "regions": [
+        "Gujarat",
+        "All India"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "pathan",
+      "name": "Pathan",
+      "name_gu": "પઠાણ",
+      "category": "Muslim",
+      "also_known_as": [
+        "Khan",
+        "Pashtun"
+      ],
+      "regions": [
+        "Gujarat",
+        "All India"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "mughal_muslim",
+      "name": "Mughal",
+      "name_gu": "મુઘલ",
+      "category": "Muslim",
+      "also_known_as": [
+        "Baig",
+        "Chughtai"
+      ],
+      "regions": [
+        "Gujarat",
+        "All India"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "shaikh",
+      "name": "Shaikh",
+      "name_gu": "શેખ",
+      "category": "Muslim",
+      "also_known_as": [
+        "Sheikh",
+        "Siddiqui",
+        "Farooqi",
+        "Usmani"
+      ],
+      "regions": [
+        "Gujarat",
+        "All India"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "memon",
+      "name": "Memon",
+      "name_gu": "મેમણ",
+      "category": "Muslim",
+      "also_known_as": [
+        "Halai Memon",
+        "Kutchi Memon",
+        "Halari Memon"
+      ],
+      "regions": [
+        "Saurashtra",
+        "Kutch",
+        "Surat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "khoja",
+      "name": "Khoja",
+      "name_gu": "ખોજા",
+      "category": "Muslim",
+      "also_known_as": [
+        "Nizari Ismaili",
+        "Aga Khani",
+        "Ismaili Khoja"
+      ],
+      "regions": [
+        "Gujarat",
+        "All India"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "dawoodi_bohra",
+      "name": "Dawoodi Bohra",
+      "name_gu": "દાઉદી બોહ્રા",
+      "category": "Muslim",
+      "also_known_as": [
+        "Daudi Bohra"
+      ],
+      "regions": [
+        "Surat",
+        "Ahmedabad",
+        "Vadodara"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "sulaimani_bohra",
+      "name": "Sulaymani Bohra",
+      "name_gu": "સુલૈમાની બોહ્રા",
+      "category": "Muslim",
+      "also_known_as": [],
+      "regions": [
+        "Surat",
+        "Ahmedabad"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "alvi_bohra",
+      "name": "Alvi Bohra",
+      "name_gu": "અલ્વી બોહ્રા",
+      "category": "Muslim",
+      "also_known_as": [],
+      "regions": [
+        "Vadodara",
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "hafizi_bohra",
+      "name": "Hafizi Bohra",
+      "name_gu": "હાફ઼ઝી બોહ્રા",
+      "category": "Muslim",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "malek",
+      "name": "Malek",
+      "name_gu": "મલેક",
+      "category": "Muslim",
+      "also_known_as": [
+        "Malik"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "molesalam_rajput",
+      "name": "Molesalam Rajput",
+      "name_gu": "મૉળેસળામ રાજપૂત",
+      "category": "Muslim",
+      "also_known_as": [
+        "Muslim Rajput"
+      ],
+      "regions": [
+        "Saurashtra",
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "kazi",
+      "name": "Kazi",
+      "name_gu": "કાઝી",
+      "category": "Muslim",
+      "also_known_as": [
+        "Qazi"
+      ],
+      "regions": [
+        "Gujarat",
+        "All India"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "mirza",
+      "name": "Mirza",
+      "name_gu": "મિર્ઝા",
+      "category": "Muslim",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat",
+        "All India"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "pirzada",
+      "name": "Pirzada",
+      "name_gu": "પીરઝાદા",
+      "category": "Muslim",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "siddiqui",
+      "name": "Siddiqui",
+      "name_gu": "સિદ્દીકી",
+      "category": "Muslim",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat",
+        "All India"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "alvi",
+      "name": "Alvi",
+      "name_gu": "અલ્વી",
+      "category": "Muslim",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "attar",
+      "name": "Attar",
+      "name_gu": "અત્તાર",
+      "category": "Muslim",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "agwan",
+      "name": "Agwan",
+      "name_gu": "અગ્વાન",
+      "category": "Muslim",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "iraqi",
+      "name": "Iraqi",
+      "name_gu": "ઈરાકી",
+      "category": "Muslim",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "randeria_muslim",
+      "name": "Randeria Muslim",
+      "name_gu": "રાંદેર મુસ્લિમ",
+      "category": "Muslim",
+      "also_known_as": [],
+      "regions": [
+        "Surat",
+        "Randher area"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "surati_muslim",
+      "name": "Surati Muslim",
+      "name_gu": "સૂરતી મુસ્લિમ",
+      "category": "Muslim",
+      "also_known_as": [],
+      "regions": [
+        "Surat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "baig",
+      "name": "Baig",
+      "name_gu": "બૈગ",
+      "category": "Muslim",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "chughtai",
+      "name": "Chughtai",
+      "name_gu": "ચૂઘ્તૈ",
+      "category": "Muslim",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "asar",
+      "name": "Asar",
+      "name_gu": "અસ઼ઁ",
+      "category": "Muslim",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "khatiawadi_muslim",
+      "name": "Khatiawadi Muslim",
+      "name_gu": "ખારિયાવાડ઼ી મુસ્લિમ",
+      "category": "Muslim",
+      "also_known_as": [],
+      "regions": [
+        "Saurashtra"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "ansari",
+      "name": "Ansari",
+      "name_gu": "અન્સારી",
+      "category": "Muslim",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat",
+        "All India"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "qureshi",
+      "name": "Qureshi",
+      "name_gu": "કુરૈશી",
+      "category": "Muslim",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat",
+        "All India"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "vohra",
+      "name": "Vohra",
+      "name_gu": "વ઼ોહ઼ઁ",
+      "category": "Muslim",
+      "also_known_as": [
+        "Bohra Vohra"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "ghori",
+      "name": "Ghori",
+      "name_gu": "ઘ઼ોઁ",
+      "category": "Muslim",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "luhana_muslim",
+      "name": "Luhana Muslim",
+      "name_gu": "લ઼ઙ઼ઁ",
+      "category": "Muslim",
+      "also_known_as": [],
+      "regions": [
+        "Saurashtra",
+        "Kutch"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "agri",
+      "name": "Agri",
+      "name_gu": "અગ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "ahir",
+      "name": "Ahir",
+      "name_gu": "આહ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Ayar-Boricha",
+        "Ahir Sorathia",
+        "Ahir Maschoiya",
+        "Ahir Pancholi",
+        "Ahir Nadhera",
+        "Ahir Vanar",
+        "Ahir Boricha",
+        "Ahir Vagadiya",
+        "Ahir Bhangur",
+        "Ahir Harkat",
+        "Ahir Kambaliya",
+        "Ahir Mol",
+        "Ahir Parathariya",
+        "Yadav"
+      ],
+      "regions": [
+        "Saurashtra",
+        "Kutch",
+        "North Gujarat"
+      ],
+      "subcastes": [
+        {
+          "id": "yadav",
+          "name": "Yadav",
+          "name_gu": "ય઼ઁ",
+          "also_known_as": [
+            "Ahir"
+          ],
+          "regions": [
+            "Gujarat"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "barot_sebc",
+      "name": "Barot / Vahivancha Charan-Gadhvi",
+      "name_gu": "બ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Vahivancha Barot",
+        "Gadhvi"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "bafan_sebc",
+      "name": "Bafan (Muslim)",
+      "name_gu": "બ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Bafan"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "bavri",
+      "name": "Bavri / Baori",
+      "name_gu": "બ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Baori"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "bawa",
+      "name": "Bawa / Goswami",
+      "name_gu": "બ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Atit Bawa",
+        "Goswami",
+        "Vairagi Bava",
+        "Gosai",
+        "Dashnam Goswami",
+        "Ramanandi Bawa",
+        "Ramanandi Sadhu",
+        "Puri",
+        "Bharti",
+        "Kapdi",
+        "Kapadiya",
+        "Nathbawa",
+        "Bharathari",
+        "Margi",
+        "Gangajalia",
+        "Giri",
+        "Dashnami Bawa"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "bhalia",
+      "name": "Bhalia",
+      "name_gu": "ભ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "bhamta",
+      "name": "Bhamta",
+      "name_gu": "ભ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Pardesi Bhamta"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "bharwad",
+      "name": "Bharwad",
+      "name_gu": "ભ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Motabhai Bharwad",
+        "Nanabhai Bharwad"
+      ],
+      "regions": [
+        "Saurashtra",
+        "Central Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "kabari",
+      "name": "Kabari",
+      "name_gu": "ક઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Baria Motabhai",
+        "Chosala",
+        "Janpada"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "bhoi",
+      "name": "Bhoi",
+      "name_gu": "ભ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Bhoiraj",
+        "Dhimar",
+        "Zinga-Bhoi",
+        "Kevat Bhoi",
+        "Bhanara Bhoi",
+        "Machhindra Bhoi",
+        "Palewar Bhoi",
+        "Kirat Bhoi",
+        "Kahar Bhoi",
+        "Pardeshi Bhoi",
+        "Srimali Bhoi"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "charan",
+      "name": "Charan / Gadhvi",
+      "name_gu": "ચ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Gadhvi"
+      ],
+      "regions": [
+        "Saurashtra",
+        "Kutch",
+        "North Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "bhat_sebc",
+      "name": "Bhat",
+      "name_gu": "ભ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Bhat Brahmin"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "chhara",
+      "name": "Chhara",
+      "name_gu": "છ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Adodiya Sansi",
+        "Adodiya",
+        "Sansi"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "chunara",
+      "name": "Chunara",
+      "name_gu": "ચ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "chuvalia_koli",
+      "name": "Chuvalia Koli",
+      "name_gu": "ચ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "dabgar",
+      "name": "Dabgar",
+      "name_gu": "ડ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "divecha_koli",
+      "name": "Divecha Koli",
+      "name_gu": "દ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "dafer",
+      "name": "Dafer",
+      "name_gu": "ડ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Hindu and Muslim"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "dhobi",
+      "name": "Dhobi",
+      "name_gu": "ધ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Washerman",
+        "Rajak"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "fakir_sebc",
+      "name": "Fakir (Muslim)",
+      "name_gu": "ફ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "gadhai_sebc",
+      "name": "Gadhai (Muslim)",
+      "name_gu": "ગ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "gadalia",
+      "name": "Gadalia / Gadiluharia",
+      "name_gu": "ગ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Gadiluharia"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": [
+        {
+          "id": "luhariya",
+          "name": "Luhariya / Luvaria",
+          "name_gu": "લ઼ઁ",
+          "also_known_as": [
+            "Luvaria"
+          ],
+          "regions": [
+            "Gujarat"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "galiara_sebc",
+      "name": "Galiara (Muslim)",
+      "name_gu": "ગ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "ghanchi_muslim_sebc",
+      "name": "Ghanchi (Muslim)",
+      "name_gu": "ઘ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "teli",
+      "name": "Teli / Modh Ghanchi",
+      "name_gu": "ત઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Teli",
+        "Modh Ghanchi"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "ghedia_koli",
+      "name": "Ghedia Koli",
+      "name_gu": "ઘ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "gola_rana",
+      "name": "Gola-Rana",
+      "name_gu": "ગ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "hingora_muslim",
+      "name": "Hingora (Muslim)",
+      "name_gu": "હ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "hingora_hindu",
+      "name": "Hingora (Hindu)",
+      "name_gu": "હ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "julaya",
+      "name": "Julaya / Garana / Taria",
+      "name_gu": "જ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Garana",
+        "Taria",
+        "Tari",
+        "all Muslim"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "jilaya",
+      "name": "Jilaya (Muslim)",
+      "name_gu": "જ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "tariya_tai",
+      "name": "Tariya / Tai (Muslim)",
+      "name_gu": "ત઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Tariya-Tai"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "jat_muslim",
+      "name": "Jat (Muslim)",
+      "name_gu": "જ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "kaikadi",
+      "name": "Kaikadi",
+      "name_gu": "ક઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "kambadia_bhagat",
+      "name": "Kambadia Bhagat",
+      "name_gu": "ક઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "kangasia",
+      "name": "Kangasia",
+      "name_gu": "ક઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "khatki_sebc",
+      "name": "Khatki / Kasai (Muslim)",
+      "name_gu": "ખ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Chamadia Khatki",
+        "Halari Khatki"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "khatik",
+      "name": "Khatik",
+      "name_gu": "ખ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "khant",
+      "name": "Khant",
+      "name_gu": "ખ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Khant Kshatriya",
+        "Khant Rajput"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "kharwa_bhadela",
+      "name": "Kharwa-Bhadela",
+      "name_gu": "ખ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Kharva"
+      ],
+      "regions": [
+        "Saurashtra",
+        "Kutch"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "kristi_christian",
+      "name": "Kristi Gujarati-Christian (SC converts)",
+      "name_gu": "ક઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Converts from Scheduled Castes only"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "koli",
+      "name": "Koli",
+      "name_gu": "ક઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Idaria Koli",
+        "Kharwa-Koli",
+        "Rathwa-Koli",
+        "Baria-Koli",
+        "Dhebaria-Koli",
+        "Kohli"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": [
+        {
+          "id": "koli_malhar",
+          "name": "Koli Malhar / Dongar Koli",
+          "name_gu": "ક઼ઁ",
+          "also_known_as": [
+            "Koli-Malhar",
+            "Koli-Mahadev",
+            "Dongar Koli"
+          ],
+          "regions": [
+            "Gujarat"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "labana",
+      "name": "Labana",
+      "name_gu": "લ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Mheravat",
+        "Goti",
+        "Hadkashi",
+        "Zod",
+        "Dhinga",
+        "Pelya",
+        "Shatbe",
+        "Baman"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "lodha",
+      "name": "Lodha",
+      "name_gu": "લ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "mir_sebc",
+      "name": "Mir / Dhadhi / Langha / Mirasi (Muslim)",
+      "name_gu": "મ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Dhadhi",
+        "Langha",
+        "Mirasi"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "machhi",
+      "name": "Machhi / Kharwa",
+      "name_gu": "મ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Kharwa",
+        "Khalas",
+        "Dhimar",
+        "Dhivar",
+        "Mitna",
+        "Tandel",
+        "Mangela",
+        "Khalasi",
+        "Sarang",
+        "Kahar"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "madari",
+      "name": "Madari / Nath",
+      "name_gu": "મ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Nath",
+        "Bharathari"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "majothi_kumbhar",
+      "name": "Majothi Kumbhar (Muslim)",
+      "name_gu": "મ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Majothi",
+        "Darban Majothi"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "makrani_sebc",
+      "name": "Makrani (Muslim)",
+      "name_gu": "મ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Kutch",
+        "Saurashtra"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "matwa_sebc",
+      "name": "Matwa / Kureshi (Muslim)",
+      "name_gu": "મ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Matwa-Kureshi",
+        "Gavli (Hindu)"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "me_meta",
+      "name": "Me / Meta",
+      "name_gu": "મ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "mena_bhil",
+      "name": "Mena (Bhil)",
+      "name_gu": "મ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "mer",
+      "name": "Mer",
+      "name_gu": "મ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Saurashtra",
+        "Porbandar",
+        "Jamnagar"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "miyana_muslim",
+      "name": "Miyana (Muslim)",
+      "name_gu": "મ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Miana"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "miyana_hindu",
+      "name": "Miyana (Hindu)",
+      "name_gu": "મ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "mochi_sebc",
+      "name": "Mochi",
+      "name_gu": "મ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Jansali",
+        "Sivania",
+        "Myanagar",
+        "Jingar",
+        "Dasania",
+        "Chamadia",
+        "Bharatbhara",
+        "Chandlia",
+        "Sonari",
+        "Aari Bharatbhara"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "nat",
+      "name": "Nat",
+      "name_gu": "ન઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Bajania",
+        "Bajigar",
+        "Natada"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "od",
+      "name": "Od",
+      "name_gu": "ઓ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "padmashali",
+      "name": "Padmashali-Patushali",
+      "name_gu": "પ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "pinjara",
+      "name": "Pinjara (Muslim)",
+      "name_gu": "પ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Ganchi-Pinjara",
+        "Mansuri-Pinjara"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "mansari_sebc",
+      "name": "Mansari (Muslim)",
+      "name_gu": "મ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "rabari",
+      "name": "Rabari",
+      "name_gu": "ર઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Bhopa",
+        "Kodiatar",
+        "Sorathiya Rabari",
+        "Champya",
+        "Raika",
+        "Rewari"
+      ],
+      "regions": [
+        "Kutch",
+        "Saurashtra",
+        "North Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "charalia",
+      "name": "Charalia / Charmta",
+      "name_gu": "ચ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Charmta",
+        "Luni",
+        "Kushar",
+        "Tank",
+        "Muchhal",
+        "Kadiya Kumbhar"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "rathodia",
+      "name": "Rathodia",
+      "name_gu": "ર઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "raval",
+      "name": "Raval / Jati / Ravalyogi",
+      "name_gu": "ર઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Jati",
+        "Ravalyogi",
+        "Jagariya"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "padat",
+      "name": "Padat / Ravar / Rawalia",
+      "name_gu": "પ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Ravar",
+        "Rawalia"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "salat",
+      "name": "Salat",
+      "name_gu": "સ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "excluding Sompura Salat",
+        "Salat Ghera"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "sandhi_muslim",
+      "name": "Sandhi (Muslim)",
+      "name_gu": "સ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "sandhi_hindu",
+      "name": "Sandhi (Hindu)",
+      "name_gu": "સ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "sarania",
+      "name": "Sarania",
+      "name_gu": "સ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "sargara",
+      "name": "Sargara",
+      "name_gu": "સ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "shrawan",
+      "name": "Shrawan / Sarwan",
+      "name_gu": "શ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Sarwan"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "shikligar",
+      "name": "Shikligar",
+      "name_gu": "શ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "siddi_sebc",
+      "name": "Siddi",
+      "name_gu": "સ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Habshi"
+      ],
+      "regions": [
+        "Saurashtra",
+        "Junagadh"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "sipai_sebc",
+      "name": "Sipai / Patni Jamat / Turk Jamat (Muslim)",
+      "name_gu": "સ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Patni Jamat",
+        "Turk Jamat"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "talpada_koli",
+      "name": "Talpada Koli / Tarbada Koli",
+      "name_gu": "ત઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Tarbada Koli"
+      ],
+      "regions": [
+        "Saurashtra",
+        "South Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "tankar",
+      "name": "Tankar",
+      "name_gu": "ત઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "targala",
+      "name": "Targala / Bhavaiya / Nayak / Bhojak",
+      "name_gu": "ત઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Bhavaiya",
+        "Nayak",
+        "Bhojak"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "thakor",
+      "name": "Thakor",
+      "name_gu": "ઠ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Thakarda",
+        "Thakore",
+        "Patanwadia",
+        "Dharala",
+        "Baraiya",
+        "Bariya",
+        "Pagi"
+      ],
+      "regions": [
+        "North Gujarat",
+        "Mehsana",
+        "Sabarkantha",
+        "Gandhinagar",
+        "Banaskantha"
+      ],
+      "subcastes": [
+        {
+          "id": "palanwadia",
+          "name": "Palanwadia",
+          "name_gu": "પ઼ઁ",
+          "also_known_as": [],
+          "regions": [
+            "Gujarat"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "theba_sebc",
+      "name": "Theba (Muslim)",
+      "name_gu": "ઠ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "vadi",
+      "name": "Vadi",
+      "name_gu": "વ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": [
+        {
+          "id": "jogi_vadi",
+          "name": "Jogi Vadi",
+          "name_gu": "જ઼ઁ",
+          "also_known_as": [],
+          "regions": [
+            "Gujarat"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vahivancha_charan",
+      "name": "Vahivancha Charan-Gadhvi of Harijan Vankar and Chamar",
+      "name_gu": "વ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "valand",
+      "name": "Valand / Nayi / Barbar / Hajam / Khalipha",
+      "name_gu": "વ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Nayi",
+        "Barbar (Hindu)",
+        "Hajam (Hindu & Muslim)",
+        "Khalipha (Muslim)"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "vale",
+      "name": "Vale (Hindu)",
+      "name_gu": "વ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "vankar_sadhu",
+      "name": "Vankar-Sadhu",
+      "name_gu": "વ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "vansfoda",
+      "name": "Vansfoda / Vansfodia / Vanza",
+      "name_gu": "વ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Vansfodia",
+        "Vanza"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": [
+        {
+          "id": "vanza_saurashtra",
+          "name": "Vanza (Saurashtra)",
+          "name_gu": "વ઼ઁ",
+          "also_known_as": [],
+          "regions": [
+            "Saurashtra"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vanzara",
+      "name": "Vanzara",
+      "name_gu": "વ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Shinagwala",
+        "Kangasiwala",
+        "Charan Vanzara",
+        "Mathura Vanzara",
+        "Maru Vanzara",
+        "Bhagora Vanzara",
+        "Kangashiya Vanzara",
+        "Bamania Vanzara",
+        "Rohidas Vanzara"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "waghari",
+      "name": "Waghari",
+      "name_gu": "વ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Dataniya Waghari",
+        "Veduwaghari",
+        "Talpada Waghari",
+        "Gamachiya Waghari",
+        "Godadia Waghari",
+        "Chibhadia Waghari",
+        "Marwada Waghari",
+        "Devipujak",
+        "Waghari Gamicho",
+        "Waghari Dhamecha",
+        "Vedva Churaliya",
+        "Jakhudia"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "wagher",
+      "name": "Wagher",
+      "name_gu": "વ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Hindu and Muslim"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "wandhara",
+      "name": "Wandhara",
+      "name_gu": "વ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "arab_sebc",
+      "name": "Arab (Muslim)",
+      "name_gu": "અ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "bhand_sebc",
+      "name": "Bhand",
+      "name_gu": "ભ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "burud",
+      "name": "Burud",
+      "name_gu": "બ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "chakrawadya_dasar",
+      "name": "Chakrawadya Dasar",
+      "name_gu": "ચ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "chaudhary_sebc",
+      "name": "Chaudhary / Hindu Anjana",
+      "name_gu": "ચ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Anjana Patel",
+        "Anjana Patidar",
+        "Anjana Desai",
+        "Anjana Kanbi",
+        "Chaudhari Patel",
+        "Chaudhari Patidar",
+        "not ST"
+      ],
+      "regions": [
+        "North Gujarat",
+        "Banaskantha",
+        "Mehsana",
+        "Sabarkantha"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "chamtha",
+      "name": "Chamtha",
+      "name_gu": "ચ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "dakaleru",
+      "name": "Dakaleru",
+      "name_gu": "ડ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "depala",
+      "name": "Depala",
+      "name_gu": "ડ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "ghantia",
+      "name": "Ghantia",
+      "name_gu": "ઘ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "ghancha",
+      "name": "Ghancha",
+      "name_gu": "ઘ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "galkadra",
+      "name": "Galkadra",
+      "name_gu": "ગ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "hati",
+      "name": "Hati",
+      "name_gu": "હ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "jachak",
+      "name": "Jachak",
+      "name_gu": "જ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "kalhodhia",
+      "name": "Kalhodhia",
+      "name_gu": "ક઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "kotwal_sebc",
+      "name": "Kotwal",
+      "name_gu": "ક઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "kumbhar",
+      "name": "Kumbhar / Prajapati",
+      "name_gu": "ક઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Prajapati",
+        "Biyar",
+        "Kadra Patel",
+        "Lathiya",
+        "Potmaker",
+        "Prajapati Variya",
+        "Sorathiya Kumbhar",
+        "Kadia Kumbhar",
+        "Sorathiya Prajapati",
+        "Gurjar Prajapati",
+        "Vataliya Prajapati",
+        "Gujjar Kshatriya Kadia",
+        "Kshatriya Kadia",
+        "Kadia"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "kharak",
+      "name": "Kharak",
+      "name_gu": "ખ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "khavas",
+      "name": "Khavas / Sorathiya Rajput",
+      "name_gu": "ખ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Sorathiya Rajput"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "karadiya_rajput",
+      "name": "Karadiya Rajput / Nadoda",
+      "name_gu": "ક઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Karadiya-Nadoda",
+        "Karadia",
+        "Nadoda",
+        "Bhathi Rajput",
+        "Karadiya Rajput",
+        "Nadoda Rajput"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "khasiya",
+      "name": "Khasiya",
+      "name_gu": "ખ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "suthar",
+      "name": "Suthar / Mistri",
+      "name_gu": "સ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Mistri",
+        "Gujjar Suthar",
+        "Suthar Gurjar",
+        "Mistri Rathod",
+        "Mistri Suthar",
+        "Sutar",
+        "Luhar",
+        "Panchal",
+        "Kadiya Suthar"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "munda",
+      "name": "Munda",
+      "name_gu": "મ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "madhaviya",
+      "name": "Madhaviya",
+      "name_gu": "મ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "mali",
+      "name": "Mali",
+      "name_gu": "મ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Mali Rami",
+        "Marwadi Mali",
+        "Fulmali",
+        "Marathi Mali",
+        "Kachh Mali",
+        "Jire Mali",
+        "Bagban",
+        "Ravin"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "maiya",
+      "name": "Maiya / Mahiya",
+      "name_gu": "મ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "palwadia",
+      "name": "Palwadia",
+      "name_gu": "પ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "padhariya",
+      "name": "Padhariya",
+      "name_gu": "પ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "pakhali",
+      "name": "Pakhali",
+      "name_gu": "પ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "sangheda",
+      "name": "Sangheda",
+      "name_gu": "સ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "shingadiya",
+      "name": "Shingadiya / Shingdav",
+      "name_gu": "શ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Shingdav"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "sochi",
+      "name": "Sochi",
+      "name_gu": "સ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "sumra_sebc",
+      "name": "Sumra (Muslim)",
+      "name_gu": "સ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Kutch",
+        "Saurashtra"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "sagar",
+      "name": "Sagar",
+      "name_gu": "સ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "sathwara",
+      "name": "Sathwara / Satvara / Dalwadi / Kadiya",
+      "name_gu": "સ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Satvara",
+        "Kadiya-Sathwara",
+        "Kadiya Satvara",
+        "Dalwadi",
+        "Kadiya"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "thakur_non_rajput",
+      "name": "Thakur (Non Rajput)",
+      "name_gu": "ઠ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "timali",
+      "name": "Timali",
+      "name_gu": "ત઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "tarak_sebc",
+      "name": "Tarak (Muslim)",
+      "name_gu": "ત઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "vajir",
+      "name": "Vajir",
+      "name_gu": "વ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "kathi",
+      "name": "Kathi",
+      "name_gu": "ક઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Saurashtra",
+        "Kutch"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "lakhara",
+      "name": "Lakhara / Lakhavara / Lakshakar",
+      "name_gu": "લ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Lakhavara",
+        "Lakshakar"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "kalal_muslim",
+      "name": "Kalal (Muslim)",
+      "name_gu": "ક઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "jagri",
+      "name": "Jagri",
+      "name_gu": "જ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "jogi",
+      "name": "Jogi",
+      "name_gu": "જ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "bahvaiya_sebc",
+      "name": "Bahvaiya (Muslim)",
+      "name_gu": "બ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "nizama_sebc",
+      "name": "Nizama (Hindu)",
+      "name_gu": "ન઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "gadriya",
+      "name": "Gadriya",
+      "name_gu": "ગ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "kamaliya_pujara",
+      "name": "Kamaliya-Pujara",
+      "name_gu": "ક઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "gari",
+      "name": "Gari",
+      "name_gu": "ગ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "sorthi",
+      "name": "Sorthi",
+      "name_gu": "સ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "kamli",
+      "name": "Kamli",
+      "name_gu": "ક઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "tamboli",
+      "name": "Tamboli",
+      "name_gu": "ત઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "garvi",
+      "name": "Garvi",
+      "name_gu": "ગ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "gurav",
+      "name": "Gurav",
+      "name_gu": "ગ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "kalal_hindu",
+      "name": "Kalal (Hindu)",
+      "name_gu": "ક઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "sanghar",
+      "name": "Sanghar (Hindu)",
+      "name_gu": "સ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "nagarchi",
+      "name": "Nagarchi",
+      "name_gu": "ન઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "kayasth_sebc",
+      "name": "Kayasth (Surveyed by State Commission)",
+      "name_gu": "ક઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "gandharv",
+      "name": "Gandharv (Hindu)",
+      "name_gu": "ગ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "darji",
+      "name": "Darji",
+      "name_gu": "ડ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Tailor",
+        "Shimpi"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "bhandari",
+      "name": "Bhandari",
+      "name_gu": "ભ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "kathi_rajgor",
+      "name": "Kathi Rajgor / Ahir Gor / Parajiya Rajgor",
+      "name_gu": "ક઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Parajiya Rajgor",
+        "Ahir Gor"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "kuruhin_shetty",
+      "name": "Kuruhin Shetty",
+      "name_gu": "ક઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "hajuri_rajput",
+      "name": "Hajuri (Rajput)",
+      "name_gu": "હ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "koli_rajput",
+      "name": "Koli Rajput",
+      "name_gu": "ક઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "North Gujarat",
+        "Sabarkantha",
+        "Mehsana"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "prajapati",
+      "name": "Prajapati",
+      "name_gu": "પ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Kumhar",
+        "Sorathiya Prajapati",
+        "Gurjar Prajapati"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "soni",
+      "name": "Soni",
+      "name_gu": "સ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Goldsmith",
+        "Sonar"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "luhar",
+      "name": "Luhar",
+      "name_gu": "લ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Lohar",
+        "Blacksmith"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "panchal",
+      "name": "Panchal",
+      "name_gu": "પ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "devipujak",
+      "name": "Devipujak",
+      "name_gu": "ડ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Waghari sub-group"
+      ],
+      "regions": [
+        "Central Gujarat",
+        "Vadodara"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "ghanchi_hindu",
+      "name": "Ghanchi (Hindu)",
+      "name_gu": "ઘ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Teli",
+        "Modh Ghanchi"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "kachhia",
+      "name": "Kachhia / Kachhi",
+      "name_gu": "ક઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Kachhi",
+        "Maurya",
+        "Koyari",
+        "Kachhi Kushavah"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "koshti",
+      "name": "Koshti",
+      "name_gu": "ક઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "swakul_sali",
+      "name": "Swakul Sali / Sali",
+      "name_gu": "સ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "bhadabhuja",
+      "name": "Bhadabhuja",
+      "name_gu": "ભ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "chhipa",
+      "name": "Chhipa",
+      "name_gu": "છ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "hajam",
+      "name": "Hajam / Nai",
+      "name_gu": "હ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Barber",
+        "Nai",
+        "Savan"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "bavcha_sebc",
+      "name": "Bavcha (now ST)",
+      "name_gu": "બ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Now reclassified as ST"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "bhil_sebc",
+      "name": "Bhil (now ST)",
+      "name_gu": "ભ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Now reclassified as ST - kept for historical reference"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "padhara_sebc",
+      "name": "Padha (now ST)",
+      "name_gu": "પ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Now reclassified as ST"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "gavli",
+      "name": "Gavli",
+      "name_gu": "ગ઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Dhangar",
+        "Shepherd"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "kshatriya_koli",
+      "name": "Kshatriya Koli",
+      "name_gu": "ક઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "rathwa_koli",
+      "name": "Rathwa Koli",
+      "name_gu": "ર઼ઁ",
+      "category": "SEBC",
+      "also_known_as": [
+        "Rathva",
+        "Rathwa"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "ager_sc",
+      "name": "Ager",
+      "name_gu": "અ઼ઁ",
+      "category": "SC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "bakad_bant",
+      "name": "Bakad / Bunt",
+      "name_gu": "બ઼ઁ",
+      "category": "SC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "bawa_dedh",
+      "name": "Bawa-Dedh / Dhedh-Sadhu",
+      "name_gu": "બ઼ઁ",
+      "category": "SC",
+      "also_known_as": [
+        "Dedh-Sadhu",
+        "Vankar-Sadhu",
+        "Harijan-Bawa",
+        "Anusuchit Jatina Bawa"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "bhambi",
+      "name": "Bhambi / Chamar / Rohit",
+      "name_gu": "ભ઼ઁ",
+      "category": "SC",
+      "also_known_as": [
+        "Bhambhi",
+        "Asadaru",
+        "Asodi",
+        "Chamadia",
+        "Chamar",
+        "Chamar-Ravidas",
+        "Chabhar",
+        "Chamgar",
+        "Machigar",
+        "Mochigar",
+        "Madar",
+        "Madig",
+        "Nalia",
+        "Rohidas",
+        "Rohit",
+        "Samgar",
+        "Ranigar",
+        "Jatav",
+        "Bhambi Khalpa",
+        "Bhambi Rohit",
+        "Bhambi Sindhi Mochi"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "chuhra_valmiki",
+      "name": "Chuhra / Valmiki",
+      "name_gu": "ચ઼ઁ",
+      "category": "SC",
+      "also_known_as": [
+        "Valmiki",
+        "Chuhra",
+        "Olgana",
+        "Lalbegi",
+        "Halalkhor",
+        "Zadmalli",
+        "Hela",
+        "Balmiki",
+        "Rukhi",
+        "Korar"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "chalvadi",
+      "name": "Chalvadi / Channayya",
+      "name_gu": "ચ઼ઁ",
+      "category": "SC",
+      "also_known_as": [
+        "Channayya"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "holeya",
+      "name": "Holeya / Chenna Dasar",
+      "name_gu": "હ઼ઁ",
+      "category": "SC",
+      "also_known_as": [
+        "Chenna Dasar",
+        "Holaya Dasar",
+        "Holer"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "dangashia_sc",
+      "name": "Dangashia",
+      "name_gu": "ડ઼ઁ",
+      "category": "SC",
+      "also_known_as": [],
+      "regions": [
+        "Dang",
+        "South Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "dhor",
+      "name": "Dhor / Kankayya",
+      "name_gu": "ઘ઼ઁ",
+      "category": "SC",
+      "also_known_as": [
+        "Kankayya"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "garmatang",
+      "name": "Garmatang",
+      "name_gu": "ગ઼ઁ",
+      "category": "SC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "garoda",
+      "name": "Garoda / Garo",
+      "name_gu": "ગ઼ઁ",
+      "category": "SC",
+      "also_known_as": [
+        "Garo",
+        "Grava",
+        "Guru Brahman SC"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "halleer",
+      "name": "Halleer",
+      "name_gu": "હ઼ઁ",
+      "category": "SC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "halsar",
+      "name": "Halsar / Haslar",
+      "name_gu": "હ઼ઁ",
+      "category": "SC",
+      "also_known_as": [
+        "Haslar",
+        "Hulasvar",
+        "Halasvar"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "holar",
+      "name": "Holar / Valhar",
+      "name_gu": "હ઼ઁ",
+      "category": "SC",
+      "also_known_as": [
+        "Valhar"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "lingader",
+      "name": "Lingader",
+      "name_gu": "લ઼ઁ",
+      "category": "SC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "mahyavanshi",
+      "name": "Mahyavanshi / Dhedh / Maru Vankar",
+      "name_gu": "મ઼ઁ",
+      "category": "SC",
+      "also_known_as": [
+        "Dhed",
+        "Dhedh",
+        "Vankar",
+        "Maru Vankar",
+        "Antyai"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "mang",
+      "name": "Mang / Matang",
+      "name_gu": "મ઼ઁ",
+      "category": "SC",
+      "also_known_as": [
+        "Matang",
+        "Minimadig"
+      ],
+      "regions": [
+        "South Gujarat",
+        "Vadodara"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "mang_garudi",
+      "name": "Mang-Garudi",
+      "name_gu": "મ઼ઁ",
+      "category": "SC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "meghwal",
+      "name": "Meghwal / Meghvanshi",
+      "name_gu": "મ઼ઁ",
+      "category": "SC",
+      "also_known_as": [
+        "Meghawal",
+        "Menghvar",
+        "Jedeja Meghwal",
+        "Maheshvari Meghwal",
+        "Vankar Meghwal",
+        "Charaniya Meghwal",
+        "Gurjar Meghwal"
+      ],
+      "regions": [
+        "Kutch",
+        "North Gujarat",
+        "Banaskantha"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "mukri",
+      "name": "Mukri",
+      "name_gu": "મ઼ઁ",
+      "category": "SC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "nadia_hadi",
+      "name": "Nadia / Hadi",
+      "name_gu": "ન઼ઁ",
+      "category": "SC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "pasi_sc",
+      "name": "Pasi",
+      "name_gu": "પ઼ઁ",
+      "category": "SC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "senva",
+      "name": "Shenva / Chenva / Senva",
+      "name_gu": "સ઼ઁ",
+      "category": "SC",
+      "also_known_as": [
+        "Chenva",
+        "Sedma",
+        "Rawat",
+        "Senma",
+        "Shenva"
+      ],
+      "regions": [
+        "Saurashtra",
+        "Kutch"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "shemalia",
+      "name": "Shemalia",
+      "name_gu": "શ઼ઁ",
+      "category": "SC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "thori_sc",
+      "name": "Thori",
+      "name_gu": "ઠ઼ઁ",
+      "category": "SC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "tirgar",
+      "name": "Tirgar / Tirbanda",
+      "name_gu": "ત઼ઁ",
+      "category": "SC",
+      "also_known_as": [
+        "Tirbanda"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "turi",
+      "name": "Turi",
+      "name_gu": "ત઼ઁ",
+      "category": "SC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "turi_barot",
+      "name": "Turi Barot / Dedh Barot",
+      "name_gu": "ત઼ઁ",
+      "category": "SC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "balai",
+      "name": "Balai / Balayi",
+      "name_gu": "બ઼ઁ",
+      "category": "SC",
+      "also_known_as": [
+        "Balayi",
+        "Balahi"
+      ],
+      "regions": [
+        "Gujarat",
+        "Rajasthan border"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "bhangi_mehtar",
+      "name": "Bhangi / Mehtar",
+      "name_gu": "ભ઼ઁ",
+      "category": "SC",
+      "also_known_as": [
+        "Mehtar"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "chak_chikwa",
+      "name": "Chak / Chikwa / Chikvi",
+      "name_gu": "ચ઼ઁ",
+      "category": "SC",
+      "also_known_as": [
+        "Chikwa",
+        "Chikvi"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "koli_kori_sc",
+      "name": "Koli / Kori (SC)",
+      "name_gu": "ક઼ઁ",
+      "category": "SC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "kotwal_sc",
+      "name": "Kotwal (SC)",
+      "name_gu": "ક઼ઁ",
+      "category": "SC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "mahar",
+      "name": "Mahar",
+      "name_gu": "મ઼ઁ",
+      "category": "SC",
+      "also_known_as": [
+        "Taral",
+        "Dhegu Megu"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "parmar_sc",
+      "name": "Parmar (SC)",
+      "name_gu": "પ઼ઁ",
+      "category": "SC",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "vankar",
+      "name": "Vankar",
+      "name_gu": "વ઼ઁ",
+      "category": "SC",
+      "also_known_as": [
+        "Vanakar",
+        "Momna"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "barda_st",
+      "name": "Barda",
+      "name_gu": "બ઼ઁ",
+      "category": "ST",
+      "also_known_as": [],
+      "regions": [
+        "Saurashtra",
+        "Gir Somnath"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "bavacha_st",
+      "name": "Bavacha / Bamcha",
+      "name_gu": "બ઼ઁ",
+      "category": "ST",
+      "also_known_as": [
+        "Bamcha"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "bharwad_st",
+      "name": "Bharwad (Forest - Alech/Barda/Gir)",
+      "name_gu": "ભ઼ઁ",
+      "category": "ST",
+      "also_known_as": [
+        "Forest Nesses only"
+      ],
+      "regions": [
+        "Saurashtra",
+        "Gir"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "bhil_st",
+      "name": "Bhil",
+      "name_gu": "ભ઼ઁ",
+      "category": "ST",
+      "also_known_as": [
+        "Bhil Garasia",
+        "Dholi Bhil",
+        "Dungri Bhil",
+        "Dungri Garasia",
+        "Mewasi Bhil",
+        "Pargi Bhil",
+        "Rawal Bhil",
+        "Tadvi Bhil",
+        "Bhagalia",
+        "Bhilala",
+        "Pawra",
+        "Vasava",
+        "Vasave"
+      ],
+      "regions": [
+        "East Gujarat",
+        "Dahod",
+        "Panchmahal",
+        "Sabarkantha",
+        "Banaskantha"
+      ],
+      "subcastes": [
+        {
+          "id": "bhilala_st",
+          "name": "Bhilala",
+          "name_gu": "ભ઼ઁ",
+          "also_known_as": [
+            "Barela",
+            "Patelia"
+          ],
+          "regions": [
+            "East Gujarat",
+            "Chhota Udaipur"
+          ]
+        },
+        {
+          "id": "tadvi_st",
+          "name": "Tadvi / Bawra / Vasave",
+          "name_gu": "ત઼ઁ",
+          "also_known_as": [
+            "Bawra",
+            "Vasave"
+          ],
+          "regions": [
+            "South Gujarat",
+            "Bharuch",
+            "Narmada"
+          ]
+        },
+        {
+          "id": "dungri_bhil_st",
+          "name": "Dungri Bhil",
+          "name_gu": "ઘ઼ઁ",
+          "also_known_as": [],
+          "regions": [
+            "North Gujarat",
+            "Sabarkantha",
+            "Banaskantha"
+          ]
+        },
+        {
+          "id": "dungri_garasia_st",
+          "name": "Dungri Garasia",
+          "name_gu": "ઘ઼ઁ",
+          "also_known_as": [],
+          "regions": [
+            "North Gujarat",
+            "Sabarkantha"
+          ]
+        },
+        {
+          "id": "mewasi_bhil_st",
+          "name": "Mewasi Bhil",
+          "name_gu": "મ઼ઁ",
+          "also_known_as": [],
+          "regions": [
+            "North Gujarat",
+            "Sabarkantha",
+            "Banaskantha"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "charan_st",
+      "name": "Charan (Forest - Alech/Barada/Gir)",
+      "name_gu": "ચ઼ઁ",
+      "category": "ST",
+      "also_known_as": [
+        "Forest Nesses only"
+      ],
+      "regions": [
+        "Saurashtra",
+        "Gir"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "chaudhri_st",
+      "name": "Chaudhri (Surat/Valsad)",
+      "name_gu": "ચ઼ઁ",
+      "category": "ST",
+      "also_known_as": [],
+      "regions": [
+        "Surat",
+        "Valsad"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "chodhara_st",
+      "name": "Chodhara",
+      "name_gu": "ચ઼ઁ",
+      "category": "ST",
+      "also_known_as": [],
+      "regions": [
+        "South Gujarat",
+        "Tapi"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "dhanka_st",
+      "name": "Dhanka / Tadvi / Tetaria / Valvi",
+      "name_gu": "ઘ઼ઁ",
+      "category": "ST",
+      "also_known_as": [
+        "Tadvi",
+        "Tetaria",
+        "Valvi"
+      ],
+      "regions": [
+        "South Gujarat",
+        "Bharuch",
+        "Narmada"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "dhodia_st",
+      "name": "Dhodia",
+      "name_gu": "ઘ઼ઁ",
+      "category": "ST",
+      "also_known_as": [
+        "Dhodi"
+      ],
+      "regions": [
+        "South Gujarat",
+        "Navsari",
+        "Valsad",
+        "Surat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "dubla_st",
+      "name": "Dubla / Talavia / Halpati",
+      "name_gu": "ઘ઼ઁ",
+      "category": "ST",
+      "also_known_as": [
+        "Talavia",
+        "Halpati"
+      ],
+      "regions": [
+        "South Gujarat",
+        "Navsari",
+        "Valsad",
+        "Surat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "gamit_st",
+      "name": "Gamit / Gamta / Gavit / Mavchi / Padvi / Valvi",
+      "name_gu": "ગ઼ઁ",
+      "category": "ST",
+      "also_known_as": [
+        "Gamta",
+        "Gavit",
+        "Mavchi",
+        "Padvi",
+        "Valvi"
+      ],
+      "regions": [
+        "South Gujarat",
+        "Tapi",
+        "Surat",
+        "Navsari"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "gond_st",
+      "name": "Gond / Rajgond",
+      "name_gu": "ગ઼ઁ",
+      "category": "ST",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "kathodi_st",
+      "name": "Kathodi / Katkari",
+      "name_gu": "ક઼ઁ",
+      "category": "ST",
+      "also_known_as": [
+        "Katkari",
+        "Dhor Kathodi",
+        "Dhor Katkari",
+        "Son Kathodi",
+        "Son Katkari"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "kokna_st",
+      "name": "Kokna / Kokni / Kukna",
+      "name_gu": "ક઼ઁ",
+      "category": "ST",
+      "also_known_as": [
+        "Kokni",
+        "Kukna"
+      ],
+      "regions": [
+        "South Gujarat",
+        "Valsad",
+        "Navsari"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "koli_dhor_st",
+      "name": "Koli Dhor / Rathva Koli / Tokre Koli",
+      "name_gu": "ક઼ઁ",
+      "category": "ST",
+      "also_known_as": [
+        "Rathva Koli",
+        "Tokre Koli",
+        "Kolcha",
+        "Kongha"
+      ],
+      "regions": [
+        "East Gujarat",
+        "Chhota Udaipur"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "kunbi_dangs",
+      "name": "Kunbi (Dang District)",
+      "name_gu": "ક઼ઁ",
+      "category": "ST",
+      "also_known_as": [],
+      "regions": [
+        "Dang"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "naikda_st",
+      "name": "Naikda / Nayaka",
+      "name_gu": "ન઼ઁ",
+      "category": "ST",
+      "also_known_as": [
+        "Cholivala Nayaka",
+        "Kapadia Nayaka",
+        "Mota Nayaka",
+        "Nana Nayaka"
+      ],
+      "regions": [
+        "East Gujarat",
+        "Panchmahal",
+        "Dahod"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "padhar_st",
+      "name": "Padhar",
+      "name_gu": "પ઼ઁ",
+      "category": "ST",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "pardhi_st",
+      "name": "Pardhi / Advichincher / Phanse Pardhi",
+      "name_gu": "પ઼ઁ",
+      "category": "ST",
+      "also_known_as": [
+        "Advichincher",
+        "Phanse Pardhi"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "patelia_st",
+      "name": "Patelia",
+      "name_gu": "પ઼ઁ",
+      "category": "ST",
+      "also_known_as": [
+        "Barela",
+        "Bhilala"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "pomla_st",
+      "name": "Pomla",
+      "name_gu": "પ઼ઁ",
+      "category": "ST",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "rathawa_st",
+      "name": "Rathawa / Rathva",
+      "name_gu": "ર઼ઁ",
+      "category": "ST",
+      "also_known_as": [
+        "Rathva"
+      ],
+      "regions": [
+        "East Gujarat",
+        "Chhota Udaipur",
+        "Vadodara"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "siddi_st",
+      "name": "Siddi / Siddi-Badshan",
+      "name_gu": "સ઼ઁ",
+      "category": "ST",
+      "also_known_as": [
+        "Siddi-Badshan",
+        "Habshi"
+      ],
+      "regions": [
+        "Saurashtra",
+        "Junagadh",
+        "Gir Somnath"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "varli_st",
+      "name": "Varli / Warli",
+      "name_gu": "વ઼ઁ",
+      "category": "ST",
+      "also_known_as": [
+        "Warli"
+      ],
+      "regions": [
+        "South Gujarat",
+        "Valsad",
+        "Navsari"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "vitola_st",
+      "name": "Vitola / Kotwalia / Barodia",
+      "name_gu": "વ઼ઁ",
+      "category": "ST",
+      "also_known_as": [
+        "Kotwalia",
+        "Barodia"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "padvi_st",
+      "name": "Padvi",
+      "name_gu": "પ઼ઁ",
+      "category": "ST",
+      "also_known_as": [],
+      "regions": [
+        "South Gujarat",
+        "Bharuch"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "vasava_st",
+      "name": "Vasava",
+      "name_gu": "વ઼ઁ",
+      "category": "ST",
+      "also_known_as": [
+        "Vasawa",
+        "Vasvi"
+      ],
+      "regions": [
+        "South Gujarat",
+        "Bharuch",
+        "Narmada",
+        "Tapi"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "bavcha_st",
+      "name": "Bavcha",
+      "name_gu": "બ઼ઁ",
+      "category": "ST",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "bafan_dt",
+      "name": "Bafan (Muslim) - DT",
+      "name_gu": "Bafan (Muslim) - DT",
+      "category": "DT",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "chhara_dt",
+      "name": "Chhara - DT",
+      "name_gu": "Chhara - DT",
+      "category": "DT",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "chuvalia_koli_dt",
+      "name": "Chuvalia Koli - DT",
+      "name_gu": "Chuvalia Koli - DT",
+      "category": "DT",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "dafer_dt",
+      "name": "Dafer - DT",
+      "name_gu": "Dafer - DT",
+      "category": "DT",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "hingora_dt",
+      "name": "Hingora - DT",
+      "name_gu": "Hingora - DT",
+      "category": "DT",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "koli_kutch_dt",
+      "name": "Koli (Kutch Rapar/Bhachau) - DT",
+      "name_gu": "Koli (Kutch Rapar/Bhachau) - DT",
+      "category": "DT",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "me_dt",
+      "name": "Me - DT",
+      "name_gu": "Me - DT",
+      "category": "DT",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "miyana_dt",
+      "name": "Miyana - DT",
+      "name_gu": "Miyana - DT",
+      "category": "DT",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "sandhi_dt",
+      "name": "Sandhi - DT",
+      "name_gu": "Sandhi - DT",
+      "category": "DT",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "theba_dt",
+      "name": "Theba - DT",
+      "name_gu": "Theba - DT",
+      "category": "DT",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "vaghari_dt",
+      "name": "Vaghari - DT",
+      "name_gu": "Vaghari - DT",
+      "category": "DT",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "bajania_nt",
+      "name": "Bajania - NT",
+      "name_gu": "Bajania - NT",
+      "category": "NT",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "bawa_vairagi_nt",
+      "name": "Bawa-Vairagi - NT",
+      "name_gu": "Bawa-Vairagi - NT",
+      "category": "NT",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "bhand_nt",
+      "name": "Bhand - NT",
+      "name_gu": "Bhand - NT",
+      "category": "NT",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "bhavaiya_nt",
+      "name": "Bhavaiya - NT",
+      "name_gu": "Bhavaiya - NT",
+      "category": "NT",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "bhopa_nt",
+      "name": "Bhopa - NT",
+      "name_gu": "Bhopa - NT",
+      "category": "NT",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "chamtha_nt",
+      "name": "Chamtha - NT",
+      "name_gu": "Chamtha - NT",
+      "category": "NT",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "charan_gadhvi_nt",
+      "name": "Charan-Gadhvi (Vadodara) - NT",
+      "name_gu": "Charan-Gadhvi (Vadodara) - NT",
+      "category": "NT",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "gadlia_nt",
+      "name": "Gadlia - NT",
+      "name_gu": "Gadlia - NT",
+      "category": "NT",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "garo_nt",
+      "name": "Garo - NT",
+      "name_gu": "Garo - NT",
+      "category": "NT",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "garudi_nt",
+      "name": "Garudi - NT",
+      "name_gu": "Garudi - NT",
+      "category": "NT",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "ghantia_nt",
+      "name": "Ghantia - NT",
+      "name_gu": "Ghantia - NT",
+      "category": "NT",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "jogi_nt",
+      "name": "Jogi - NT",
+      "name_gu": "Jogi - NT",
+      "category": "NT",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "kangsia_nt",
+      "name": "Kangsia - NT",
+      "name_gu": "Kangsia - NT",
+      "category": "NT",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "kathodi_nt",
+      "name": "Kathodi - NT",
+      "name_gu": "Kathodi - NT",
+      "category": "NT",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "kotwalia_nt",
+      "name": "Kotwalia - NT",
+      "name_gu": "Kotwalia - NT",
+      "category": "NT",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "marwada_waghari_nt",
+      "name": "Marwada-Waghari - NT",
+      "name_gu": "Marwada-Waghari - NT",
+      "category": "NT",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "nath_nt",
+      "name": "Nath - NT",
+      "name_gu": "Nath - NT",
+      "category": "NT",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "ode_nt",
+      "name": "Ode - NT",
+      "name_gu": "Ode - NT",
+      "category": "NT",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "pardhi_nt",
+      "name": "Pardhi - NT",
+      "name_gu": "Pardhi - NT",
+      "category": "NT",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "ravalia_nt",
+      "name": "Ravalia - NT",
+      "name_gu": "Ravalia - NT",
+      "category": "NT",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "salat_ghera_nt",
+      "name": "Salat Ghera - NT",
+      "name_gu": "Salat Ghera - NT",
+      "category": "NT",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "sarania_nt",
+      "name": "Sarania - NT",
+      "name_gu": "Sarania - NT",
+      "category": "NT",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "shikligar_nt",
+      "name": "Shikligar - NT",
+      "name_gu": "Shikligar - NT",
+      "category": "NT",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "turi_nt",
+      "name": "Turi - NT",
+      "name_gu": "Turi - NT",
+      "category": "NT",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "vadi_nt",
+      "name": "Vadi - NT",
+      "name_gu": "Vadi - NT",
+      "category": "NT",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "vansfoda_nt",
+      "name": "Vansfoda - NT",
+      "name_gu": "Vansfoda - NT",
+      "category": "NT",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "vanzara_nt",
+      "name": "Vanzara - NT",
+      "name_gu": "Vanzara - NT",
+      "category": "NT",
+      "also_known_as": [
+        "Shinangwala",
+        "Kangsiwala"
+      ],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    },
+    {
+      "id": "vitolia_nt",
+      "name": "Vitolia - NT",
+      "name_gu": "Vitolia - NT",
+      "category": "NT",
+      "also_known_as": [],
+      "regions": [
+        "Gujarat"
+      ],
+      "subcastes": []
+    }
+  ]
+}
